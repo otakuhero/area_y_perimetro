@@ -1,0 +1,58 @@
+body{
+margin: 0;
+padding: 0;
+}
+.barra_navegacion{
+background-color: #8a2be2;
+display: flex;
+justify-content: left;
+align-items: center;
+}
+.barra_navegacion img{
+height: 100px;  
+
+}
+.calculadora p{
+
+    color: #fff;
+    background-color: #790DAB;
+    height: 50px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+.calculadora p:hover{
+    background-color:#D2AADC;
+}
+.imagen img{
+    height: 300px;
+
+}
+.areas img{
+    height: 300px;
+  
+}
+.informacion h1{
+    font-size:30px;
+
+
+}
+.informacion p{
+    font-size:25px;
+
+}
+.informacion h2{
+    font-size:25px;
+}
+.perimetro img{
+    height: 300px;
+}
+#calcular{
+    background-color:#790DAB;
+    color: #fff;
+    font-size: 25px;
+    padding: 10px;
+    border-radius: 10px;
+}
